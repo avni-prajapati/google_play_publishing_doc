@@ -1,41 +1,43 @@
-# Website
+## Google Play Publishing Guide 
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+![img.png](img.png)
 
-### Installation
+### Publish Your App Hassle-Free: A Step-by-Step Guide to Google Play Deployment 🚀
 
-```
-$ yarn
-```
+![Google](https://img.shields.io/badge/Google-%230080FF.svg?style=for-the-badge&logo=Google&logoColor=white) [![Android](https://img.shields.io/badge/Android-Platform-3DDC84?logo=android)](https://developer.android.com/)
 
-### Local Development
+![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 
-```
-$ yarn start
-```
+# 📝 Features:
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- Step-by-Step Guide to publish an application in Google Play Store ✅
+- How to create an application in Google Play Console 🛠
+- How to configure store settings information ⚙️
+- How to provide store listing information 📝
+- Common errors while publishing an application & how to fix them 🚨
 
-### Build
+# 📦 Made with
 
-```
-$ yarn build
-```
+- [Docusaurus](https://docusaurus.io/)
+- [Vercel](https://vercel.com)
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+# 🔗 Connect with me
 
-### Deployment
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkblue?logo=linkedin)](https://www.linkedin.com/in/avniprajapati/) [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter)](https://x.com/avni_prajapati_)
 
-Using SSH:
+[![Medium](https://img.shields.io/badge/Medium-Profile-black?logo=medium)](https://medium.com/@avniprajapati21101)
 
-```
-$ USE_SSH=true yarn deploy
-```
 
-Not using SSH:
+# 🤝 Contribution
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue
+or submit a pull request.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+1. Fork the repository.
+2. Create a new branch (feature-branch)
+3. Commit your changes.
+4. Push to the branch and submit a pull request.
+
+# 📬 Contact
+
+For issues or suggestions, open an issue or reach out at avniprajapati21101@gamil.com.

@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Publishing an application on the Google Play Store is a crucial step in making your app accessible to millions of users worldwide. This guide will walk you through the entire process, from setting up your Play Console account to successfully launching your app. Follow along to avoid common pitfalls and ensure a smooth publishing experience! 🚀
 
-### 📔 About what this documentation will cover
+### 📔 About What This Documentation Will Cover
 
 - Step by step guide to publish application in Google Play store.
 - How to create application in Google Play console.
