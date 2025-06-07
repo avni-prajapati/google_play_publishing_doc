@@ -17,7 +17,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Avni21101', // Usually your GitHub org/user name.
+  organizationName: 'avni-prajapati', // Usually your GitHub org/user name.
   projectName: 'google_play_publishing_doc', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
@@ -83,7 +83,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Avni21101/google_play_publishing_doc',
+          href: 'https://github.com/avni-prajapati/google_play_publishing_doc',
           label: 'GitHub',
           position: 'right',
         },
@@ -110,7 +110,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/Avni21101',
+              href: 'https://github.com/avni-prajapati',
             },
             {
               label: 'Medium',
